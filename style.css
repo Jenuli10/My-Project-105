@@ -1,0 +1,17 @@
+body{
+    background-image:  url(https://www.wowpatterns.com/assets/files/resource_images/stripes-light-vector-pattern.jpg); 
+    color: black ;
+}
+ .heading{
+     width:100%;
+     font-size: 20;
+     font-family: 'Caveat', cursive;
+ }
+ #name_of_object, #result_object_name, #result_accuracy_name{
+     color:rgba(1, 13, 37, 0.555)
+ } 
+#camera{
+    border:2px  dotted black;
+    width: 350px;
+    height:300px;
+}
